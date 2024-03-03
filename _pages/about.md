@@ -1,9 +1,13 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
+author: Jonathan Baum
+date: 2024-03-03
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
+# About 
+
+## Test Heading
+
+.... interests, bla, bla, bla

@@ -1,9 +1,11 @@
 ---
-title: Contact
-author: Tao He
-date: 2022-02-05
+title: Impressum
+author: Jonathan Baum
+date: 2024-03-03
 category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+# Some Impressum
+
+- Copy and paste something good
