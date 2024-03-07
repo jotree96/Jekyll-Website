@@ -1,10 +1,17 @@
 ---
-title: Konvens 2022 (Student Poster Session)
+title: Persönliche Ereignisse
 author: Jonathan Baum
-date: 2022-06-21
-category: Jekyll
+date: 2024-03-07
+category: personal
 layout: post
 ---
+
+Hier sammle ich Ereignisse, die vor allem meinen akademischen bzw. beruflichen Werdegang betreffen.
+
+### International #Entrep-Bootcamps
+in Rumänien, Cluj-Napoca
+
+### Konvens 2022 (Student Poster Session)
 
 #### 2022-09-19 (Update)
 Die Konferenz hat viel Spaß gemacht! Spannende Vorträge, neue Kontakte und dies habe ich nur durch die Förderung der Gesellschaft für Sprachtechnologie und Computerlinguistik (GSCL) im Rahmen eines Stipendiums ermöglicht bekommen. So konnte ich mein Poster vorstellen und mich mit anderen austauschen. Es war mir eine große Freude – zudem konnte ich Potsdam entdecken!
