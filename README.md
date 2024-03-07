@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: home
 title: Jekyll Gitbook Theme
 permalink: /
@@ -216,4 +216,4 @@ Copyright 2019 Tao He.
 [12]: https://rubygems.org/gems/jekyll-remote-theme
 [13]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 [14]: https://github.com/sighingnow/jekyll-gitbook/blob/master/_config.yml
-[15]: https://jekyllrb.com/docs/collections/
+[15]: https://jekyllrb.com/docs/collections/ -->
