@@ -13,11 +13,11 @@ layout: post
 #### Zitation
 Siegel, M., Baum, J., Brahms, J., Jährling, R., Klassen, J., Mina, C., Seib, M., Solomon, K. & Stute, C. (2024). Analyse von Hatespeech unter Berücksichtigung der strafrechtlichen Relevanz, in ‘Proceedings of the 46th Annual Meeting of the German Linguistic Society (DGfS)’, German Linguistic Society (DGfS), Ruhr University Bochum, p. 253.
 
+---
+
 ### Towards Ukrainian Wordnet: Incorporation of an Existing Thesaurus in the Domain of Physics (Paper)
 
 `2023-09-22` – [ACL-Link mit freiem Zugang zum Dokument](https://aclanthology.org/2023.konvens-main.12/)
-
----
 
 #### Zusammenfassung
 
