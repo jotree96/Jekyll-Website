@@ -17,6 +17,8 @@ Siegel, M., Baum, J., Brahms, J., Jährling, R., Klassen, J., Mina, C., Seib, M.
 
 `2023-09-22` – [ACL-Link mit freiem Zugang zum Dokument](https://aclanthology.org/2023.konvens-main.12/)
 
+---
+
 #### Zusammenfassung
 
 > In this paper, we represent the first version of the Ukrainian wordnet – Ukrajinet 1.0. It contains 3,360 sets of full synonyms in the field of
