@@ -14,8 +14,6 @@ Fachliche Interessen:
 - Projektmanagement
 - viele weitere Themen
 
-Meine Code-Projekte sind auf einem internen GitLab-Server gesichert. Bei Interesse bin ich via Mail erreichbar.
-
 <!-- 
 Make Jelly site have a GitBook look!
 

@@ -1,7 +1,7 @@
 ---
 title: Archivierung von URLs in Wissenschaftlichen Arbeiten
 author: Jonathan Baum
-date: 2023-08-09
+date: 2023-03-03
 category: Jekyll
 layout: post
 ---

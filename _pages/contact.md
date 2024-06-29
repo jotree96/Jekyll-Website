@@ -10,7 +10,7 @@ layout: post
 
 #### Kontakt
 
-jobaum96(at)posteo(dot).net
+jobaum96(at)@posteo(dot).net
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
