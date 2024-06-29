@@ -41,10 +41,9 @@ Während AirDrop eine hervorragende Lösung für den Dateitransfer ist, ist es l
 #### Literaturverwaltung
 Für die Verwaltung von Publikationen nutze ich Zotero, das eine einfache Organisation und Zitierweise ermöglicht. Meine eigene Bibliothek verwalte ich mit Calibre, einer leistungsstarken E-Book-Verwaltungssoftware.
 
-### Aktuelle Herausforderungen
+#### Aktuelle Herausforderungen
 
-Ein ungelöstes Problem bleibt für mich die Kalenderverwaltung. Ich suche noch nach der besten Methode, um sowohl meinen privaten als auch meinen Arbeitskalender effizient zu managen. Der Arbeitskalender ist in Thunderbird integriert, doch würde ich ihn auch gerne live auf meinem Smartphone einsehen können. Hier stehe ich noch vor einer Herausforderung, die es zu lösen gilt.
-
+Ein ungelöstes Problem bleibt für mich die Kalenderverwaltung. Ich suche noch nach der besten Methode, um sowohl meinen privaten als auch meinen Arbeitskalender einfach zu managen. Der Arbeitskalender ist in Thunderbird integriert, doch würde ich ihn auch gerne live auf meinem Smartphone einsehen können. Und meinen privaten Kalender würde ich auch gerne allgegenwärtig live/online abrufbar haben. Das verstößt aber ein wenig gegen den - nur lokal - Gedanken...
 
 
 
